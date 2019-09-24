@@ -13,6 +13,10 @@ permalink: /about/
 
 [admin@pyrfume.com](mailto:admin@pyrfume.com)
 
+### Funding
+
+This work is supported by NIDCD (1R01DC018455).
+
 ### Logo
 
 Pyrfume logo by Hermine Blanquart from the Noun Project
