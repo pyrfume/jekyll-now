@@ -9,6 +9,10 @@ permalink: /about/
 Rick Gerkin, PhD is a neuroinformaticist and olfaction researcher at Arizona State University.
 Joel Mainland, PhD is an olfaction researcher at Monell Chemical Senses Center.
 
-### Contact me
+### Contact us
 
 [admin@pyrfume.com](mailto:admin@pyrfume.com)
+
+### Logo
+
+Pyrfume logo by Hermine Blanquart from the Noun Project
