@@ -14,6 +14,7 @@ Pyrfume aims to make odorant-linked datasets:
 
 ## Components:
 #### `pyrfume`, a Python package
+![Image](https://simpleicons.org/icons/github.svg){: width="20px" valign="top"}
 <img src=https://simpleicons.org/icons/github.svg width="20" valign=top> [Source](http://github.com/pyrfume/pyrfume)<br>
 <img src=https://static.thenounproject.com/png/192334-200.png width=20 valign=top> [Docs](http://docs.pyrfume.org)
 
