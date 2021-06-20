@@ -7,10 +7,10 @@ layout: default
 
 ## Mission:
 Pyrfume aims to make odorant-linked datasets:
-- Easy to *f*ind
-- Easy to *a*ccess and use
-- *I*nteroperable with other datasets and tools
-- Facilitate *r*eproducible analysis and modeling
+- Easy to [F]ind
+- Easy to [A]ccess and use
+- [I]nteroperable with other datasets and tools
+- Facilitate [R]eproducible analysis and modeling
 
 ## Components:
 #### `pyrfume`, a Python package
