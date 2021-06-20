@@ -29,6 +29,6 @@ Pyrfume aims to make odorant-linked datasets:
 
 #### `pyRESTfume`, a REST API for state-less computations with odorant-linked data
 
-center {
+.center {
   vertical-align: middle;
 }
