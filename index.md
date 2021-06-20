@@ -14,16 +14,15 @@ Pyrfume aims to make odorant-linked datasets:
 
 ## Components:
 #### `pyrfume`, a Python package
-![Image](https://simpleicons.org/icons/github.svg){: width="20px" valign="top"}
-<img src=https://simpleicons.org/icons/github.svg width="20" valign=top> [Source](http://github.com/pyrfume/pyrfume)<br>
-<img src=https://static.thenounproject.com/png/192334-200.png width=20 valign=top> [Docs](http://docs.pyrfume.org)
+![GitHub Icon](https://simpleicons.org/icons/github.svg){: width="20px" valign="top"} [Source](http://github.com/pyrfume/pyrfume)<br>
+![Docs Icon](https://static.thenounproject.com/png/192334-200.png){: width="20px" valign="top"}> [Docs](http://docs.pyrfume.org)
 
 #### `pyrfume-data`, Curated and standardized datasets for research and model benchmarking
-<img src=https://simpleicons.org/icons/github.svg width="20" valign=top> [Public Source](http://github.com/pyrfume/pyrfume-data)<br>
-<img src=https://static.thenounproject.com/png/2013853-200.png width="20" valign=top> [Curation Status](http://status.pyrfume.org)<br>
-<img src=https://static.thenounproject.com/png/4005023-200.png width="20" valign=top> [Contact for more](mailto:admin@pyrfume.org)<br>
+![GitHub Icon](https://simpleicons.org/icons/github.svg){: width="20px" valign="top"} [Public Source](http://github.com/pyrfume/pyrfume-data)<br>
+![Curation Icon](https://static.thenounproject.com/png/2013853-200.png){: width="20px" valign="top"} [Curation Status](http://status.pyrfume.org)<br>
+![Email Icon](https://static.thenounproject.com/png/4005023-200.png){: width="20px" valign="top"} [Contact for more](mailto:admin@pyrfume.org)<br>
 
 #### `Rfume`, an R package (limited features)
-<img src=https://simpleicons.org/icons/github.svg width="20" valign=top> [Source](http://github.com/pyrfume/rfume)
+![GitHub Icon](https://simpleicons.org/icons/github.svg){: width="20px" valign="top"} [Source](http://github.com/pyrfume/rfume)<br>
 
 #### `pyRESTfume`, a REST API for state-less computations with odorant-linked data
